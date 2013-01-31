@@ -18,8 +18,3 @@
 > Press "Power" Button till the apple appears
 > When the apple appeared, press "Power" + "Home Button" till the apple disappears and 4 secs more
 > The process of JailBreaking will start
-
-8) Put a tick into custom bundle and select OpenSSL and OpenSSH
-9) Press "Next"
-10) ????????
-11) Profit!!!

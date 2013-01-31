@@ -2,7 +2,7 @@
 
 # RedSn0w
 
-[RedSn0w](https://github.com/Eyerise/itunes-mux-ssh-win-client/tree/master/Windows%20Tools/RedSn0w%200.9.15b3%20for%20Windows)
+Download RedSn0w [here](https://github.com/Eyerise/itunes-mux-ssh-win-client/tree/master/Windows%20Tools/RedSn0w%200.9.15b3%20for%20Windows)
 
 1) Open RedSn0w
 

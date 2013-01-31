@@ -5,11 +5,17 @@
 [RedSn0w](https://github.com/Eyerise/itunes-mux-ssh-win-client/tree/master/Windows%20Tools/RedSn0w%200.9.15b3%20for%20Windows)
 
 1) Open RedSn0w
+
 2) Press "Extra"
+
 3) Press "Select IPSW"
+
 4) Select your Device's ipsw
+
 5) Press "Back"
+
 6) Press "JailBreak"
+
 7) Put your Device into DFU mode:
 
 ## DFU-Mode

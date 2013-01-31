@@ -20,7 +20,11 @@
 
 ## DFU-Mode
 > Plug in your device into the computer with the USB-cable
+
 > Power off your device
+
 > Press "Power" Button till the apple appears
+
 > When the apple appeared, press "Power" + "Home Button" till the apple disappears and 4 secs more
+
 > The process of JailBreaking will start
